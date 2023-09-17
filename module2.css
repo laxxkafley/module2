@@ -1,6 +1,5 @@
 /*basic style*/
 
-
 * {
     box-sizing: border-box;
   }
@@ -18,8 +17,6 @@
   .row {
     width: 90%;
   }
-
-
 
     section {
     position: relative;
